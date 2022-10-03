@@ -1,0 +1,9 @@
+.button{
+    box-shadow: 2px 2px 20px 0px #f8f8f844;
+}
+
+
+
+.tile.is-parent{
+    padding: 0px;
+}
